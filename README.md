@@ -7,6 +7,12 @@ Swipe-based "Discover" tab (React + Vite, Node/Express, JSON-file persistence) w
 npm install
 npm run dev      # API on :4000, web on :5173
 ```
+
+https://github.com/user-attachments/assets/b713ef7f-9a84-41eb-8226-e74b03187c30
+
+
+
+
 Production-style: `npm start` (builds, then Express serves everything on :4000).
 
 ## API (also available under `/api`)
